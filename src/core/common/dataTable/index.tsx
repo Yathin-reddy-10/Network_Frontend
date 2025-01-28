@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react";
+ import React, { useEffect, useState } from "react";
 import { Button, Table } from "antd";
 import { DatatableProps } from "../../data/interface";
 

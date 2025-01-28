@@ -34,7 +34,7 @@ export const UserPermissionsProvider: React.FC<UserPermissionsProviderProps> = (
   });
 
   // const webApi = 'https://apinetwork.sctickets.in'; 
-  const webApi = 'http://10.30.31.218:8000'
+  const webApi = 'http://10.30.30.122:8000'
   // const webApi = 'http://10.10.8.17:8000';   
 
   useEffect(() => {
